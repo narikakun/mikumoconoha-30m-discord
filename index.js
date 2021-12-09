@@ -30,6 +30,9 @@ async function sendMikuomoConoHa () {
                     {
                         image: {
                             url: imgUrl
+                        },
+                        footer: {
+                            text: "(C)GMO Internet, Inc. 再使用の禁止されています。"
                         }
                     }
                 ]
